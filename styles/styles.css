@@ -291,6 +291,7 @@ button {
     background-color: black;
     left: -140px;
     top: 36px;
+    z-index: 1;
     display: none;
 }
 .popover-open {
